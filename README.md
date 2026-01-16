@@ -56,7 +56,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikumkanishka&theme=dark&hide_border=true"/>
 </p>
-----
 <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikumkanishka&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
