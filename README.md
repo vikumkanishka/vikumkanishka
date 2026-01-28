@@ -38,6 +38,10 @@
 <p align="left">  
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>  </p>
+
+🗃️ Databases
+<p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  
 🛠️ Tools & Others
 <p align="left"> 
   <a href="https://git-scm.com/">
