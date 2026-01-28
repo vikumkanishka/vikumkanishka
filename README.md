@@ -37,7 +37,9 @@
 ⚙️ Backend
 <p align="left">  
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>  </p>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> 
+</p>
 
 🗃️ Databases
 <p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
