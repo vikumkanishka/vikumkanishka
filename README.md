@@ -39,10 +39,14 @@
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>  </p>
 🛠️ Tools & Others
-<p align="left"> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> 
-  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> 
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
-  </a> 
+<p align="left"> 
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/></a> 
+  <a href="https://postman.com">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> 
+  <a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></a>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
 <p align="center">
