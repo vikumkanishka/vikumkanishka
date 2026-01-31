@@ -28,21 +28,31 @@
 ### ⚡**Tech Stack & Tools**
 
 🖥️ Frontend
-<p align="left"> <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> 
-  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a> 
-  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> 
-  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> 
+<p align="left"> <a href="https://html.spec.whatwg.org">
+	<img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> 
+  <a href="https://www.w3schools.com/css/">
+		<img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+		<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a> 
+  <a href="https://tailwindcss.com">
+		<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> 
+  <a href="https://getbootstrap.com">
+		<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> 
  
 ⚙️ Backend
 <p align="left">  
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> 
+  <a href="https://www.java.com">
+		<img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> 
+  <a href="https://www.python.org">
+		<img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://spring.io/">
+		<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> 
 </p>
 
 🗃️ Databases
-<p align="left"> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<p align="left"> 
+	<a href="https://www.mysql.com">
+		<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
   
 🛠️ Tools & Others
 <p align="left"> 
