@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Aspiring+Software+Engineer;Passionate+Full-Stack+Developer;+One+Mind+Many+Code" alt="Typing SVG" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center"> <h3 align="center">🚀 An Aspiring Software Engineer & Passionate Full-Stack Developer</h3> <p align="center">The ever-evolving world of technology 🌐 continues to inspire me, fueling my journey toward becoming a skilled software engineer. As I deepen my expertise in Full-Stack Development, I’m driven by the desire to build meaningful, intuitive, and user-centered digital experiences.</p> </div>
+<div align="center"> <h3 align="center">🚀 An Aspiring Software Engineer & Passionate Full-Stack Developer</h3>
+	<p align="center">The ever-evolving world of technology 🌐 continues to inspire me, fueling my journey toward becoming a skilled software engineer. As I deepen my expertise in Full-Stack 		Development, I’m driven by the desire to build meaningful, intuitive, and user-centered digital experiences.</p> 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400" align="right">
@@ -22,8 +24,6 @@
 ### 🌱 **What I'm Learning Next**
 - 🗄️ **Advanced Databases:** DB Normalization, and PosgreSQL
 - ⚙️ **Advanced Concepts:** Advanced Data Structures and Algorithms
-
----
 
 ### ⚡**Tech Stack & Tools**
 
@@ -57,11 +57,11 @@
 🛠️ Tools & Others
 <p align="left"> 
   <a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"/></a> 
+  	<img src="https://skillicons.dev/icons?i=git" alt="Git"/></a> 
   <a href="https://postman.com">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> 
+  	<img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> 
   <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></a>
+  	<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></a>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
@@ -89,9 +89,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikumkanishka&label=Profile%20views&color=0e75b6&style=flat" alt="vikumkanishka" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">Connect with me</h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" />
+	</a>
 <a href="https://fb.com/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikum kanishka" height="30" width="40" /></a>
 <a href="https://instagram.com/vikum_kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikum_kanishka" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cruzo" height="30" width="40" /></a>
