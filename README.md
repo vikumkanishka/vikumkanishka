@@ -93,12 +93,21 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-	<a href="https://linkedin.com/in/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" />
+	<a href="https://linkedin.com/in/vikum kanishka" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" />
 	</a>
-<a href="https://fb.com/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikum kanishka" height="30" width="40" /></a>
-<a href="https://instagram.com/vikum_kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikum_kanishka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cruzo" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vikumkanishka14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vikumkanishka14" height="30" width="40" /></a>
+	<a href="https://fb.com/vikum kanishka" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikum kanishka" height="30" width="40" />
+	</a>
+	<a href="https://instagram.com/vikum_kanishka" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikum_kanishka" height="30" width="40" />
+	</a>
+	<a href="https://www.youtube.com/c/cruzo" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cruzo" height="30" width="40"/>
+	</a>
+	<a href="https://www.hackerearth.com/@vikumkanishka14" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vikumkanishka14" height="30" width="40" />
+	</a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
