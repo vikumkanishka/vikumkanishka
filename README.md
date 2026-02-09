@@ -93,10 +93,8 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-	<a href="https://linkedin.com/in/vikum kanishka" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" />
-	</a>
-	<a href="https://fb.com/vikum kanishka" target="blank">
+	<a href="https://linkedin.com/in/vikum kanishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikum kanishka" height="30" width="40" />
+	</a><a href="https://fb.com/vikum kanishka" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikum kanishka" height="30" width="40" />
 	</a>
 	<a href="https://instagram.com/vikum_kanishka" target="blank">
