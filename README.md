@@ -40,8 +40,7 @@
 		<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> 
   <a href="https://angular.dev/">
 		<img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a> 
-  <a href="https://code.visualstudio.com/">
-		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
+  
 ⚙️ Backend
 <p align="left">  
   <a href="https://www.java.com">
@@ -66,6 +65,8 @@
   <a href="https://www.adobe.com/products/photoshop.html">
   	<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></a>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://code.visualstudio.com/">
+		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
 <p align="center">
