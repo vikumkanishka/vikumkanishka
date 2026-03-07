@@ -40,7 +40,8 @@
 		<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> 
   <a href="https://angular.dev/">
 		<img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a> 
- 
+  <a href="https://code.visualstudio.com/">
+		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
 ⚙️ Backend
 <p align="left">  
   <a href="https://www.java.com">
