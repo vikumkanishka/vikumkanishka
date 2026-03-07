@@ -61,12 +61,15 @@
   <a href="https://git-scm.com/">
   	<img src="https://skillicons.dev/icons?i=git" alt="Git"/></a> 
   <a href="https://postman.com">
-  	<img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> 
+  	<img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a> 
   <a href="https://www.adobe.com/products/photoshop.html">
   	<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></a>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
   <a href="https://code.visualstudio.com/">
-		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
+  	<img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
+  <a href="https://www.figma.com/">
+	<img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/></a>
+  <a href="https://www.jetbrains.com/idea/">
+	<img src="https://skillicons.dev/icons?i=idea" alt="Idea"/></a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats	
 <p align="center">
