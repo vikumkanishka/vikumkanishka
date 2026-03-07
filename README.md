@@ -38,6 +38,8 @@
 		<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> 
   <a href="https://getbootstrap.com">
 		<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> 
+  <a href="https://angular.dev/">
+		<img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a> 
  
 ⚙️ Backend
 <p align="left">  
