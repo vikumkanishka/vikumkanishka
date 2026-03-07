@@ -59,7 +59,9 @@
 🛠️ Tools & Others
 <p align="left"> 
   <a href="https://git-scm.com/">
-  	<img src="https://skillicons.dev/icons?i=git" alt="Git"/></a> 
+  	<img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://github.com/">
+  	<img src="https://skillicons.dev/icons?i=github" alt="Github"/></a>
   <a href="https://postman.com">
   	<img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a> 
   <a href="https://www.adobe.com/products/photoshop.html">
