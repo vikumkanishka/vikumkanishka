@@ -52,8 +52,10 @@
 </p>
 
 Mobile Dev
-<a href="https://flutter.dev/">
-		<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /></a> 
+<p align="left">
+	<a href="https://flutter.dev/">
+			<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /></a>
+</p>
 
 🗃️ Databases
 <p align="left"> 
