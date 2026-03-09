@@ -51,6 +51,10 @@
 		<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> 
 </p>
 
+Mobile Dev
+<a href="https://flutter.dev/">
+		<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /></a> 
+
 🗃️ Databases
 <p align="left"> 
 	<a href="https://www.mysql.com">
